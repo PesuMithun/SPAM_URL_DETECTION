@@ -27,7 +27,7 @@ The model was trained on the **`phishing.csv`** dataset, which contains **11,054
 
 - ~55% URLs labeled as **malicious**
 - ~45% URLs labeled as **benign**
-- All features are binary (**1** or **-1**)
+- All features are binary (**1** **0** or **-1**)
 
 ---
 
@@ -53,12 +53,14 @@ seaborn
 pip install -r requirements.txt
 
 ### 4 Verify the Dataset
+```
 SPAM_URL_DETECTION/
 │
 ├── phishing.csv
 ├── XGBOOSTER_CLASSIFIER.py
 ├── requirements.txt
 └── README.md
+```
 
 ### 5️ Run the Project
 python XGBOOSTER_CLASSIFIER.py
