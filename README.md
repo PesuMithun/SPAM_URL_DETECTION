@@ -56,10 +56,15 @@ pip install -r requirements.txt
 ```
 SPAM_URL_DETECTION/
 │
-├── phishing.csv
-├── XGBOOSTER_CLASSIFIER.py
-├── requirements.txt
+├── ml_mini_project_final/
+│   ├── ML_FINAL_REPORT_PES1UG24AM810_PES1UG24AM805.pdf
+│   ├── PES1UG24AM805_810_ML_PPT.pptx
+│   ├── POSTER_805_810.pdf
+│   ├── XGBOOSTER_CLASSIFIER.ipynb
+│   └── phishing.csv
+├── Requirement.txt
 └── README.md
+
 ```
 
 ### 5️ Run the Project
